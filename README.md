@@ -1,18 +1,20 @@
-#Layer Sort Script for Adobe<sup>&reg;</sup> Photoshop<sup>&reg;</sup>
+## Layer Sort Script for Adobe<sup>&reg;</sup> Photoshop<sup>&reg;</sup>
 
-## Compatibility
+This script will sort your groups and layers alphabetically.
+
+### Compatibility
 
 This script has only been tested using Adobe<sup>&reg;</sup> Photoshop<sup>&reg;</sup> 14.1.2 (x64). Please use at your own risk.
 
-## Installing
+### Installing
 
 To install this script and have it appear in the `File > Scripts` menu you must place it in the `Scripts` folder. That folder is located in one of the following locations depending on your operating system:
 
-### Windows
+#### Windows
 
 `%ProgramFiles%\Adobe\Adobe Photoshop CC\Presets\Scripts`
 
-### OS X
+#### OS X
 
 `/Applications/Adobe Photoshop CC/Presets/Scripts`
 
