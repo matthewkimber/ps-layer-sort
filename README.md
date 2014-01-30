@@ -20,4 +20,10 @@ To install this script and have it appear in the `File > Scripts` menu you must 
 
 Once you have copied the script to it's respective location please restart the application (if it was open while installing the file).
 
+### Running
+
+1. Open the document that has layers you would like to sort.
+2. Click `File > Scripts > ps-layer-sort`.
+3. Voilà!
+
 Copyright &copy; 2014 Matthew Kimber. All rights reserved.
