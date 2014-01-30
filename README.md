@@ -8,7 +8,7 @@ This script has only been tested using Adobe<sup>&reg;</sup> Photoshop<sup>&reg;
 
 ### Installing
 
-To install this script and have it appear in the `File > Scripts` menu you must place it in the `Scripts` folder. That folder is located in one of the following locations depending on your operating system:
+To install this script (`ps-layer-sort.jsx`) and have it appear in the `File > Scripts` menu you must place it in the `Scripts` folder. That folder is located in one of the following locations depending on your operating system:
 
 #### Windows
 
