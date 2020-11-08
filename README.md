@@ -4,7 +4,7 @@ This script will sort your groups and layers alphabetically.
 
 ### Compatibility
 
-This script has only been tested using Adobe<sup>&reg;</sup> Photoshop<sup>&reg;</sup> 14.1.2 (x64). Please use at your own risk.
+This script has only been tested using Adobe<sup>&reg;</sup> Photoshop<sup>&reg;</sup> 22.0 (x64). Please use at your own risk.
 
 ### Installing
 
