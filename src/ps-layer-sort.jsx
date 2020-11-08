@@ -44,34 +44,13 @@
 			}
 		}
 		
-		// Sort the buffer array.
-		layerBuffer.sort(alphanumericComparer);
+		// Sort the buffer array using built-in natural sort comparer.
+		layerBuffer.sort(compareWithNumbers);
 		
 		// Move each layer accordingly.
 		for (index = 0; index < layerBuffer.length; index++) {
 			layerBuffer[index].move(layers[index], ElementPlacement.PLACEBEFORE);
 		}		
-	}
-	
-	/**
-	 * @desc Compares the left and right layer names in lower case form.
-	 * @param {ArtLayer|LayerSet} lhs The left hand object.
-	 * @param {ArtLayer|LayerSet} rhs The right hand object.
-	 * @returns {Number} Will return a -1 if the left hand object is less than the right hand object. A 1 if the left hand object is greater than the right hand object. And 0 if they are equal.
-	 */
-	function alphanumericComparer(lhs, rhs) {
-		l = lhs.name.toLowerCase();
-		r = rhs.name.toLowerCase();
-		
-		if (l < r) {
-			return -1;
-		}
-	
-		if (l > r) {
-			return 1;
-		}
-		
-		return 0;
 	}
 	
 	/**

@@ -12,11 +12,11 @@ To install this script (`ps-layer-sort.jsx`) and have it appear in the `File > S
 
 #### Windows
 
-`%ProgramFiles%\Adobe\Adobe Photoshop CC\Presets\Scripts`
+`%ProgramFiles%\Adobe\Adobe Photoshop 2021\Presets\Scripts`
 
 #### OS X
 
-`/Applications/Adobe Photoshop CC/Presets/Scripts`
+`/Applications/Adobe Photoshop 2021/Presets/Scripts`
 
 Once you have copied the script to it's respective location please restart the application (if it was open while installing the file).
 
@@ -26,4 +26,4 @@ Once you have copied the script to it's respective location please restart the a
 2. Click `File > Scripts > ps-layer-sort`.
 3. Voilà!
 
-Copyright &copy; 2014 Matthew Kimber. All rights reserved.
+Copyright &copy; 2020 Matthew Kimber. All rights reserved.
