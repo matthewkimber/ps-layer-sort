@@ -1,9 +1,9 @@
 #target photoshop
 
 /**
- * @copyright Copyright (c) 2014 Matthew Kimber. All rights reserved.
+ * @copyright Copyright (c) 2020 Matthew Kimber. All rights reserved.
  * @author Matthew Kimber <matthew.kimber@gmail.com>
- * @version 1.0
+ * @version 1.1
  * @license Apache Software License 2.0
  */
 
